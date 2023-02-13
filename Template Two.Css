@@ -185,7 +185,7 @@ header .mega-menu ul li:not(:last-child) {
 
 @media (max-width:767px) {
     header .mega-menu .links:first-of-type li:last-child {
-        border-bottom: 2px solid  #E9E6E6;
+        border-bottom: 1px solid  #eee;
     }
 }
 
